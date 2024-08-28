@@ -11,7 +11,6 @@
 
 
     <artifactId>core</artifactId>
-    <version>${revision}</version>
     <name>BFF-core</name>
     <description>BFF-core</description>
     <dependencies>

@@ -11,7 +11,7 @@
 
 
     <artifactId>api</artifactId>
-    <version>${revision}</version>
+
     <name>BFF-api</name>
     <description>BFF-api</description>
     <dependencies>
